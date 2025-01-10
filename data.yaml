@@ -1,0 +1,13 @@
+train: E:\Ky2_2024_2025\Thi_giac_may\NDBX_final\train
+val: E:\Ky2_2024_2025\Thi_giac_may\NDBX_final\valid
+test: E:\Ky2_2024_2025\Thi_giac_may\NDBX_final\test
+
+nc: 1
+names: ['bienxe']
+
+roboflow:
+  workspace: workspace-wrfuf
+  project: bienxe-lzr7i
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workspace-wrfuf/bienxe-lzr7i/dataset/3
