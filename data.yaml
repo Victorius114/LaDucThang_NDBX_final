@@ -1,6 +1,6 @@
-train: E:\Ky2_2024_2025\Thi_giac_may\NDBX_final\train
-val: E:\Ky2_2024_2025\Thi_giac_may\NDBX_final\valid
-test: E:\Ky2_2024_2025\Thi_giac_may\NDBX_final\test
+train: E:\Ky2_2024_2025\Thi_giac_may\LaDucThang_NDBX_final\train
+val: E:\Ky2_2024_2025\Thi_giac_may\LaDucThang_NDBX_final\valid
+test: E:\Ky2_2024_2025\Thi_giac_may\LaDucThang_NDBX_final\test
 
 nc: 1
 names: ['bienxe']
